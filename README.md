@@ -1,4 +1,4 @@
-To open the website
+To open the website, do the following
 
 1)Install the zip folder and unzip it
 
