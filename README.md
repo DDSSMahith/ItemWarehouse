@@ -8,4 +8,5 @@ To open the website, do the following
   -	cd project
   -	npm install
   -	npm run dev
+    
 
